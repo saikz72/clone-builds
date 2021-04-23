@@ -4,7 +4,7 @@ import SidebarTop from './SidebarTop';
 
 const Sidebar = () => {
   return (
-    <div>
+    <div className="sidebar">
       {/** top section  */}
       <SidebarTop />
 
